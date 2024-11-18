@@ -1,3 +1,3 @@
 # ai-ml-project_1
 
-This Project is about Image Classification between Cats and Dogs.
+This Repo contains various AI/ML Models.
