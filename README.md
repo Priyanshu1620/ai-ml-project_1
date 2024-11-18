@@ -1,3 +1,3 @@
-# ai-ml-project_1
+# AI/ML Projects
 
 This Repo contains various AI/ML Models.
